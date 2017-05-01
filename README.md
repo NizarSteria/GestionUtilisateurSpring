@@ -1,1 +1,3 @@
 # GestionUtilisateurSpring
+
+model=domain=entity
